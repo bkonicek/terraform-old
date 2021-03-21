@@ -1,0 +1,6 @@
+**/metadata.xml
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
