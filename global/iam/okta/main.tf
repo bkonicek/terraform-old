@@ -25,4 +25,5 @@ resource "aws_iam_role" "okta_test" {
       },
     ]
   })
+  name = "okta-test"
 }
